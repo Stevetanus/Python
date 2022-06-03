@@ -1,0 +1,20 @@
+longitude of Madou is 120.2482
+latitude of Madou is 23.1817
+Current weather in Madou:
+Clouds-overcast clouds,
+temperature is 23.02°C, and feels like 23.02°C
+2021-11-28 09:00:00 overcast clouds/pop: 0.15
+2021-11-28 12:00:00 overcast clouds/pop: 0.28
+2021-11-28 15:00:00 light rain/pop: 0.45
+2021-11-28 18:00:00 light rain/pop: 0.56
+2021-11-28 21:00:00 light rain/pop: 0.64
+2021-11-29 00:00:00 light rain/pop: 0.59
+2021-11-29 03:00:00 light rain/pop: 0.4
+2021-11-29 06:00:00 overcast clouds/pop: 0.4
+2021-11-29 09:00:00 overcast clouds/pop: 0.09
+2021-11-29 12:00:00 overcast clouds/pop: 0.05
+2021-11-29 15:00:00 broken clouds/pop: 0.24
+2021-11-29 18:00:00 broken clouds/pop: 0.16
+2021-11-29 21:00:00 broken clouds/pop: 0.07
+2021-11-30 00:00:00 broken clouds/pop: 0.07
+2021-11-30 03:00:00 broken clouds/pop: 0
