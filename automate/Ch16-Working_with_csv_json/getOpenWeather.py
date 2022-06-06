@@ -4,8 +4,9 @@
 import json
 import requests
 import sys
+import os
 
-APPID = 'YOUR_APP_ID'
+APPID = "6d0ba0f4fb360589aff2691e82ae58e5"
 
 # Compute location from command line arguments
 # 只要該城市名字並非重複，可以只輸入城市
